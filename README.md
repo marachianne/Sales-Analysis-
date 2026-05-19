@@ -1,5 +1,5 @@
 📊 Sales Data Analysis Using SQL
-
+![image alt](https://github.com/marachianne/Sales-Analysis-/blob/3d7742db183c02b9e8d7a986f4e8369bfd601447/visualization.png)
 Welcome to my Sales Data Analysis project! 🎯
 This repository contains an end-to-end SQL analysis of a sales dataset. The goal of this project is to explore sales performance, identify business insights, and segment customers using advanced SQL queries.
 
